@@ -1,21 +1,33 @@
-import random
+from collections import defaultdict
+from random import sample, shuffle
 
-with open('words.txt', "r") as words:
-    all_words = words.readlines()
 
-words = random.sample(all_words, 150)
-anagrams = list()
+def shuffle_word(word):
+    stripped_word = word.rstrip('\n')
+    letters = list(stripped_word)
+    shuffle(letters)
+    randomized_word = ('').join(letters)
+    if (randomized_word == stripped_word):
+        return None
+    return randomized_word + '\n'
 
-for word in words:
-    if len(word) < 4:
-        continue
-    word = word.rstrip('\n')
-    print(word)
-    word_as_letters = list(word)
-    random.shuffle(word_as_letters)
-    new_word = ("").join(word_as_letters) + '\n'
-    print(new_word)
-    anagrams.append(new_word)
 
-with open("anagrams.txt", "w") as anagram_file:
-    anagram_file.writelines(anagrams)
+with open('words.txt', 'r') as words:
+    words = words.readlines()
+
+shuffle(words)
+
+filtered_words = list(filter(lambda word: len(word.rstrip('\n')) >= 4, words))
+anagrams = list(map(lambda word: shuffle_word(word), filtered_words))
+filtered_anagrams = list(filter(lambda anagram: anagram != None, anagrams))
+
+anagram_buckets = defaultdict(list)
+for anagram in filtered_anagrams:
+    anagram_buckets[len(anagram.rstrip('\n'))].append(anagram)
+
+for anagram_length, anagrams in anagram_buckets.items():
+    with open(
+            '{anagram_length}_letter_anagrams.txt'.format(
+                anagram_length=anagram_length),
+            'w') as anagram_file:
+        anagram_file.writelines(anagrams)
