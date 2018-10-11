@@ -15,11 +15,11 @@ def shuffle_word(word):
 with open('words.txt', 'r') as words:
     words = words.readlines()
 
-shuffle(words)
+words = sample(words, 300)
 
-filtered_words = list(filter(lambda word: len(word.rstrip('\n')) >= 4, words))
-anagrams = list(map(lambda word: shuffle_word(word), filtered_words))
-filtered_anagrams = list(filter(lambda anagram: anagram != None, anagrams))
+filtered_words = filter(lambda word: len(word.rstrip('\n')) >= 4, words)
+anagrams = map(shuffle_word, filtered_words)
+filtered_anagrams = filter(lambda anagram: anagram != None, anagrams)
 
 anagram_buckets = defaultdict(list)
 for anagram in filtered_anagrams:
