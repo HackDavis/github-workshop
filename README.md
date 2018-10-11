@@ -9,6 +9,6 @@ This is a repository we made for all of you to have some fun while playing aroun
 
 ## Rules to follow
 1. You can solve up to 5 anagrams per PR
-2. Put your GitHub username next to each solved anagram. aka: <solved_anagram> (<GitHub username>)
+2. Put your GitHub username next to each solved anagram. aka: solved_anagram (username)
 3. Have fun!
 
