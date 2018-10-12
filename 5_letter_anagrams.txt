@@ -1,10 +1,10 @@
 memdo
 reeym
-dalas - salad (erikolson97)
+dalas - salad (erikolson97), (TimothyV97)
 lprye
 bsrun
 nycfa
-hpase
+phase (TimothyV97)
 treem
 hundi
 oryck
@@ -13,20 +13,20 @@ rocma
 oolsg
 rplia
 oaamh
-bcakl
+black (TimothyV97)
 egorr
 rauab
 gaets
 sntia
 peaml
-nplat
+plant (TimothyV97)
 ekrba
 smnae - names (erikolson97)
 dorun
 eager - eager (erikolson97)
 ecops - scope (erikolson97)
 olnig
-epiec - piece (erikolson97)
+epiec - piece (erikolson97), (dritchie1031)
 seapr
 agdnr - grand (erikolson97)
 drire
@@ -37,5 +37,5 @@ repoa
 tmesr
 rnukd
 ltles
-escne
+scene (TimothyV97)
 oanle
