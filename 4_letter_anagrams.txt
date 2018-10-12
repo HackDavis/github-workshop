@@ -6,7 +6,7 @@ allm
 olpo
 Ploy
 omno
-Stay
+stay	(eneakllomollari)
 elni
 urso
 asns
@@ -16,12 +16,12 @@ iken
 nrsu
 pteo
 ageg
-eens
+seen	(eneakllomollari)
 solt
 ilml
 fgal
 scki
-lcal
+call	(eneakllomollari)
 udrg
 edew
 neor
@@ -30,6 +30,6 @@ svat
 srgu
 ewke
 sesm
-lost
+slot	(eneakllomolllari)
 rseo
 cpmo
