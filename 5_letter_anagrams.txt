@@ -21,14 +21,14 @@ sntia
 peaml
 nplat
 ekrba
-smnae
+smnae - names (erikolson97)
 dorun
-eager
-ecops
+eager - eager (erikolson97)
+ecops - scope (erikolson97)
 olnig
-epiec
+epiec - piece (erikolson97)
 seapr
-agdnr
+agdnr - grand (erikolson97)
 drire
 rofef
 zednt
