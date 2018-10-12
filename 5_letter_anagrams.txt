@@ -8,12 +8,20 @@ hpase
 treem meter (csoth25)
 hundi 
 oryck rocky (csoth25)
+salad (TimothyV97)
+lprye
+bsrun
+nycfa
+phase (TimothyV97)
+treem
+hundi
+oryck
 coirm
 rocma 
 oolsg
 rplia
 oaamh
-bcakl
+black (TimothyV97)
 egorr
 rauab
 gaets
@@ -23,10 +31,15 @@ nplat plant
 ekrba break
 smnae 
 dorun 
+plant (TimothyV97)
+ekrba
+smnae
+dorun
 eager
 ecops scope (csoth25)
 olnig
 epiec piece (csoth25)
+piece (dritchie1031)
 seapr
 agdnr 
 drire drier (csoth25)
@@ -39,3 +52,5 @@ rnukd drunk
 ltles
 escne scene
 oanle 
+scene (TimothyV97)
+oanle
