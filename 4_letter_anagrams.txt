@@ -17,19 +17,19 @@ nrsu
 pteo
 ageg
 seen	(eneakllomollari)
-solt
-ilml
+slot	(hoangleln)
+ilml	
 fgal
 scki
 call	(eneakllomollari)
-udrg
+drug	(hoangleln)
 edew
 neor
 herb	(hoangleln)
 svat
 srgu
-ewke
-sesm
+week	(hoangleln)
+mess	(hoangleln)
 slot	(eneakllomolllari)
 rseo
 cpmo
