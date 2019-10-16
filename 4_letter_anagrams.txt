@@ -10,7 +10,7 @@ stay	(eneakllomollari)
 elni
 urso
 asns
-oars
+soar	(hoangleln)
 pork
 iken
 nrsu
@@ -25,7 +25,7 @@ call	(eneakllomollari)
 udrg
 edew
 neor
-breh
+herb	(hoangleln)
 svat
 srgu
 ewke
