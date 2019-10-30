@@ -2,7 +2,7 @@ idvx
 save (unhumbleben)
 ruby (thomasmunduchira)
 mead
-allm
+mall (thomasmunduchira)
 pool (thomasmunduchira)
 Ploy
 omno
@@ -10,7 +10,11 @@ stay	(eneakllomollari)
 elni
 urso
 asns
+<<<<<<< HEAD
 soar	
+=======
+soar (thomasmunduchira)
+>>>>>>> 58ac494ee9bee27efbaa81106f0fc3f7f6dd6709
 pork
 iken
 nrsu
